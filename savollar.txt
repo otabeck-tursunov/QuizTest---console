@@ -1,0 +1,7 @@
+Python dasturlash tildia uznlikni aniqlovchi funksiya////len
+Python dasturlash tildia listni tartiblovchi funksiya////sorted
+Eng katta qiymatni qaytaruvchi funksiya////max
+Shart operatori qaysi////if
+Takrorlash shart operatori////while
+
+Takrorlash operatori qaysi////for
