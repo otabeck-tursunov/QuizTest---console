@@ -1,25 +1,3 @@
-# savol1 = "Python dasturlash tildia uznlikni aniqlovchi funksiya: "
-# savol2 = "Python dasturlash tildia listni tartiblovchi funksiya: "
-# javob1 = input(savol1)
-#
-# count = 0
-# if javob1.lower() == "len":
-#     print("Siz to'g'ri javob berdingiz!")
-#     count = count + 1
-# else:
-#     print("Afsuski javob noto'gri! To'g'ri javob: len")
-#
-# javob2 = input(savol2)
-#
-# if javob2.lower() == "sorted":
-#     print("Siz to'g'ri javob berdingiz!")
-#     count = count + 1
-# else:
-#     print("Afsuski javob noto'gri! To'g'ri javob: sorted")
-
-# 1 -> Natijalar
-# 2 -> Test yechish
-# 0 -> Chiqish
 import datetime
 
 savollar = {}
